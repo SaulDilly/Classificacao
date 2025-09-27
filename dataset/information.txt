@@ -1,0 +1,7 @@
+x = 1
+o = 0
+b = -1
+
+Fim de jogo = 1
+Tem jogo = 0
+Pos. Fim de jogo = 2
